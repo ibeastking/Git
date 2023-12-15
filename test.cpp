@@ -4,15 +4,15 @@ using namespace std;
 int main()
 {
     int prn;
-    string name;
-    
+    // string name;
+
     cout<<"Enter PRN: ";
     cin>>prn;
 
-    cout<<"Enter Name: ";
-    cin>>name;
+    // cout<<"Enter Name: ";
+    // cin>>name;
 
-    cout<<"PRN: "<<prn<<"\nName: "<<name;
+    cout<<"PRN: "<<prn;
 
     return 0;
 }
